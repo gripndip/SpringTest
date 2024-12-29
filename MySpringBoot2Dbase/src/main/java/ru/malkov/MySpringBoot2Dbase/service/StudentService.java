@@ -1,7 +1,7 @@
-package ru.don.MySpringBoot2Dbase.service;
+package ru.malkov.MySpringBoot2Dbase.service;
 
 import org.springframework.stereotype.Service;
-import ru.don.MySpringBoot2Dbase.entity.Student;
+import ru.malkov.MySpringBoot2Dbase.entity.Student;
 import java.util.List;
 
 @Service

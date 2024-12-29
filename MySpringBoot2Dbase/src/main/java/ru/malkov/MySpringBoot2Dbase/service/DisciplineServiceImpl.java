@@ -1,10 +1,10 @@
-package ru.don.MySpringBoot2Dbase.service;
+package ru.malkovMySpringBoot2Dbase.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
-import ru.don.MySpringBoot2Dbase.dao.DisciplineDAO;
-import ru.don.MySpringBoot2Dbase.entity.Discipline;
+import ru.malkovMySpringBoot2Dbase.dao.DisciplineDAO;
+import ru.malkovMySpringBoot2Dbase.entity.Discipline;
 
 import java.util.List;
 
